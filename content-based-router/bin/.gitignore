@@ -1,6 +1,6 @@
 /.project
-/.settings/
+/.settings
 /ReadMe.txt
 /pom.xml
-/src/
-/target/
+/src
+/target
