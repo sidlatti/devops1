@@ -28,7 +28,7 @@
       <version>2.15.0</version>
     </dependency>
 
-    <!-- logging 1 -->
+    <!-- logging 7 -->
     <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-api</artifactId>
